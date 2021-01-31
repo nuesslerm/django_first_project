@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": ".venv/bin/python",
+  "python.pythonPath": "/Users/nuesslerm/github/Python/ztm-flask/flask_first_project/.venv/bin/python3",
   "python.autoComplete.extraPaths": ["./modules"],
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": true
